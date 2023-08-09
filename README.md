@@ -22,4 +22,4 @@ Main questions they’d l ike to answer:
 In this project a data set containing information about Rockbuster’s
 film i nventory, customers, and payments, among other thing, was used. 
 
-[Download the Rockbuster data set] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
