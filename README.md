@@ -14,7 +14,7 @@ Main questions they’d l ike to answer:
 
   ● Which movies contributed the most/least to revenue gain?
   ● What was the average rental duration for all videos?
-  ● Which countries are Rockbuster customers based i n?
+  ● Which countries are Rockbuster customers based in?
   ● Where are customers with a high l ifetime value based?
   ● Do sales figures vary between geographic regions?
 
@@ -22,4 +22,4 @@ Main questions they’d l ike to answer:
 In this project a data set containing information about Rockbuster’s
 film i nventory, customers, and payments, among other thing, was used. 
 
-[Download the Rockbuster data set]
+Download the Rockbuster data set [[here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip]
