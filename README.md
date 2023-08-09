@@ -23,3 +23,8 @@ In this project a data set containing information about Rockbuster’s
 film inventory, customers, and payments, among other thing, was used.
 
 [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+## Additional Links
+1. [Tableau Visualization 1](https://public.tableau.com/app/profile/diana.alatriste/viz/Rockbuster_TotalRevenuebyRegion/Continent)
+2. [Tableau Visaulization 2](https://public.tableau.com/app/profile/diana.alatriste/viz/Rockbuster_Top10cities/Sheet1)
+3. [Tableau Visualization 3](https://public.tableau.com/app/profile/diana.alatriste/viz/Top10movies_16884123785960/Sheet1)
