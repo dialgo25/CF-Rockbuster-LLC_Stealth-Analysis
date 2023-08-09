@@ -8,9 +8,9 @@ the Rockbuster Stealth management team is planning to use its existing movie lic
 launch an online video rental service in order to stay competitive.
 
 ## Key Questions and Objectives
-The Rockbuster Stealth Management Board has asked a series of business questions and
-they expect data-driven answers that they can use for their 2020 company strategy.  
-Main questions they’d like to answer:
+The Rockbuster Stealth Management Board asked a series of business questions and
+they expected data-driven answers that they could use for their 2020 company strategy.  
+Main questions they wanted to answer were:
 
   - Which movies contributed the most/least to revenue gain?
   - What was the average rental duration for all videos?
