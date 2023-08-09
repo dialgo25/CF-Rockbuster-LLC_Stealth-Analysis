@@ -12,11 +12,11 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 they expect data-driven answers that they can use for their 2020 company strategy.  
 Main questions they’d l ike to answer:
 
-  ● Which movies contributed the most/least to revenue gain?
-  ● What was the average rental duration for all videos?
-  ● Which countries are Rockbuster customers based in?
-  ● Where are customers with a high l ifetime value based?
-  ● Do sales figures vary between geographic regions?
+  /● Which movies contributed the most/least to revenue gain?
+  /● What was the average rental duration for all videos?
+  /● Which countries are Rockbuster customers based in?
+  /● Where are customers with a high l ifetime value based?
+  /● Do sales figures vary between geographic regions?
 
 ## Data Set
 In this project a data set containing information about Rockbuster’s
