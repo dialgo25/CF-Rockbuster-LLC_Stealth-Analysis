@@ -29,3 +29,6 @@ film inventory, customers, and payments, among other thing, was used.
 2. [Tableau Visaulization 2](https://public.tableau.com/app/profile/diana.alatriste/viz/Rockbuster_Top10cities/Sheet1)
 3. [Tableau Visualization 3](https://public.tableau.com/app/profile/diana.alatriste/viz/Top10movies_16884123785960/Sheet1)
 4. [Tableau Visaulization 4](https://public.tableau.com/app/profile/diana.alatriste/viz/Rockbustercustomerrevenueanalysis/Sheet1)
+
+
+For the detailed in-depth analysis please refer to the [complete report](https://github.com/dialgo25/CF-Rockbuster-LLC_Stealth-Analysis/blob/main/Final%20Deliverables/Rockbuster%20Presentation_Data%20Analysis.pdf) 
